@@ -5,3 +5,4 @@ add 3
 add 4
 add 5
 branch and test
+--no-ff merge
