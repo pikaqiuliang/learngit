@@ -1,5 +1,5 @@
 hello world, my first git
-git is free soft .
+Git is free soft .
 add 2
 Add 3
 add 4
